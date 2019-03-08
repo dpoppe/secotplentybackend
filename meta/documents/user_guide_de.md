@@ -1,8 +1,8 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# MyFirstView Plugin
+# SECOTBackend Plugin
 
-Hierbei handelt es sich um das von plentymarkets GmbH entwickelte **MyFirstView** Backend-Plugin-Beispiel.
+Hierbei handelt es sich um das von plentymarkets GmbH entwickelte **SECOTBackend** Backend-Plugin-Beispiel.
  
 
 ## Einstieg und Anforderungen

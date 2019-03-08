@@ -1,4 +1,4 @@
-# Release Notes für MyFirstView Plugin
+# Release Notes für SECOTBackend Plugin
  
 ## v1.0.1 (2017-01-16)
  
