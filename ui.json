@@ -3,9 +3,9 @@
   "namespace": "MyFirstView",
   "menuEntries": [
     {
-      "label": "Hello World",
+      "label": "SECOT",
       "menu": "start",
-      "urlKey": "hello-world",
+      "urlKey": "secot-backend",
       "entryPoint": "index.html"
     }
   ]
