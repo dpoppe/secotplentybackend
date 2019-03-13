@@ -1,11 +1,11 @@
 {
   "defaultEntryPoint": "index.html",
-  "namespace": "SECOTBackend",
+  "namespace": "SECOT",
   "menuEntries": [
     {
       "label": "SECOT",
       "menu": "start",
-      "urlKey": "secot-backend",
+      "urlKey": "secot",
       "entryPoint": "index.html"
     }
   ]
